@@ -10,7 +10,7 @@
 
 # 💼 Проекты
 
-- [ArmyRP](https://discord.gg/CkTcUvQhaF)
+- ArmyRP
   - Создатель
   - Кодер
 
