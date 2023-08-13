@@ -6,6 +6,8 @@
 - E-Mail: cmaul@etlgr.com <br>
 - Steam: https://steamcommunity.com/id/cmaul__/ <br>
 - Telegram: https://t.me/cmaulyt <br>
+- Telegram Portfolio: https://t.me/mit_desing <br>
+- Behance: https://www.behance.net/cmalcmailovi <br>
 
 
 # 💼 Проекты
@@ -13,6 +15,7 @@
 - ArmyRP
   - Создатель
   - Кодер
+  - Дизайнер
 
 - [MIT](https://github.com/MIT-gmod)
   - Создатель
@@ -21,6 +24,26 @@
 - [Niadon](https://discord.gg/Yz5GzkQajg)  
   - Графический директор
   - Заместитель генерального директора
+ 
+- [YagerMine](https://discord.gg/KGFnNsUEDw)  
+  - Заместитель генерального директора
+  - Дизайнер
+  - Кодер
+
+- AttentionRP
+  - Создатель
+  - Кодер
+  - Дизайнер
+
+- MIT RPG
+ - Создатель
+  - Кодер
+  - Дизайнер
+
+- RodemRP
+ - Создатель
+ - Кодер
+
 
 
 :octocat:
