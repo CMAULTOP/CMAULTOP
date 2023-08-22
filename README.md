@@ -23,7 +23,7 @@
 
 - [Niadon](https://discord.gg/Yz5GzkQajg)  
   - Графический директор
-  - Заместитель генерального директора
+  - COO
  
 - [YagerMine](https://discord.gg/KGFnNsUEDw)  
   - Заместитель генерального директора
