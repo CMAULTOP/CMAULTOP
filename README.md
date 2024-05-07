@@ -1,16 +1,50 @@
-### Hi there 👋
+![BrawlStars))](https://github-readme-stats.vercel.app/api?username=CMAULTOP&show_icons=true&theme=dark&locale=ru)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CMAULTOP&layout=compact&theme=dark&locale=ru&custom_title=%D0%9F%D0%BE%D0%BF%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D0%B5%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8&icon_color=79ff97)
 
-<!--
-**CMAULTOP/CMAULTOP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📫 Контакты
+- Discord: cmaul_ <br>
+- E-Mail: cmaul@etlgr.com <br>
+- Steam: https://steamcommunity.com/id/cmaul__/ <br>
+- Behance: https://www.behance.net/cmalcmailovi <br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💼 Проекты
+
+- ArmyRP
+  - Создатель
+  - Кодер
+  - Дизайнер
+
+- MIT
+  - Создатель
+  - Главный дизайнер
+
+- Niadon
+  - Графический директор
+ 
+- [YagerMine](https://discord.gg/KGFnNsUEDw)  
+  - Заместитель генерального директора
+  - Дизайнер
+  - Кодер
+ 
+- Tedex CRMP
+  - Создатель
+  - Дизайнер
+  - Кодер
+
+- AttentionRP
+  - Создатель
+  - Кодер
+  - Дизайнер
+
+- MIT RPG
+  - Создатель
+  - Кодер
+  - Дизайнер
+
+- RodemRP
+  - Создатель
+  - Кодер
+
+
+:octocat:
