@@ -4,7 +4,7 @@
 # 📫 Контакты
 - Discord: cmaul_ <br>
 - E-Mail: cmaul@etlgr.com <br>
-- Steam: https://steamcommunity.com/id/cmaul_ <br>
+- Steam: https://steamcommunity.com/id/cmaul_/ <br>
 - Behance: https://www.behance.net/cmalcmailovi <br>
 
 
